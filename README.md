@@ -6,7 +6,7 @@
      Skype: live:.cid.6e26733bfb5a0407
      Discord: sg.binung
 
-- 😄 Pronouns: me
+- 😄 Pronouns: Full Stack Developer
 - ⚡ Fun fact: I specialize in leveraging the power of Laravel along with cutting-edge front-end technologies to create robust and scalable solutions.
 
 <!---
